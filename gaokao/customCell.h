@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface customCell : UITableViewCell{
+@interface customCell :BaseCell {
     UILabel * _yearLabel;
     UILabel *_piciLabel1;
     UILabel * _wenkeLabel1;
@@ -20,5 +20,5 @@
     UILabel * _wenkeLabel3;
     UILabel * _likeLabel3;
 }
--(void)reloadCellWithArray:(NSDictionary*)info;
+
 @end

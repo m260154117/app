@@ -8,12 +8,13 @@
 
 #import "ViewController.h"
 #import "ZHPickView.h"
+#import "RatingBar.h"
 #define rowHeight 120
 #define rowNumber 1
 #define headerHeight 50
 
 
-@interface ViewController ()<UITableViewDelegate,UITableViewDataSource,ZHPickViewDelegate>{
+@interface ViewController ()<UITableViewDelegate,UITableViewDataSource,ZHPickViewDelegate,RatingBarDelegate>{
     NSDictionary * _infoDictionary;
 }
 @property(nonatomic,strong)ZHPickView *pickview;
@@ -29,8 +30,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     [self prepareData];
     [self configureUI];
-    
-    
 }
 -(void)prepareData{
     NSString * path = [[NSBundle mainBundle] pathForResource:@"gaokao" ofType:@"plist"];
@@ -38,7 +37,6 @@
     NSLog(@"_infoDictionary%@",_infoDictionary);
 }
 -(void)configureUI{
-    self.title = @"历年高考各省录取分数查询";
     self.city = @"";
     [self.navigationController.navigationBar setTitleTextAttributes:
   @{
@@ -134,9 +132,6 @@
     downLine.backgroundColor = kBlueColor;
     [view addSubview:downLine];
     
-    
-    
-    
     return view;
 }
 
@@ -170,6 +165,9 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+- (void)ratingChanged:(float)newRating{
+    NSLog(@"%f",newRating);
 }
 
 @end

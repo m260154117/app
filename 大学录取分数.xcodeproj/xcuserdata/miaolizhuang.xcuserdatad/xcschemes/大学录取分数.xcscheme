@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7760D481BFFEA0800175533"
-               BuildableName = "gaokao.app"
-               BlueprintName = "gaokao"
-               ReferencedContainer = "container:gaokao.xcodeproj">
+               BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.app"
+               BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;"
+               ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7760D611BFFEA0800175533"
-               BuildableName = "gaokaoTests.xctest"
-               BlueprintName = "gaokaoTests"
-               ReferencedContainer = "container:gaokao.xcodeproj">
+               BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xctest"
+               BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;Tests"
+               ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7760D6C1BFFEA0800175533"
-               BuildableName = "gaokaoUITests.xctest"
-               BlueprintName = "gaokaoUITests"
-               ReferencedContainer = "container:gaokao.xcodeproj">
+               BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xctest"
+               BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;UITests"
+               ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7760D481BFFEA0800175533"
-            BuildableName = "gaokao.app"
-            BlueprintName = "gaokao"
-            ReferencedContainer = "container:gaokao.xcodeproj">
+            BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.app"
+            BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;"
+            ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7760D481BFFEA0800175533"
-            BuildableName = "gaokao.app"
-            BlueprintName = "gaokao"
-            ReferencedContainer = "container:gaokao.xcodeproj">
+            BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.app"
+            BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;"
+            ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7760D481BFFEA0800175533"
-            BuildableName = "gaokao.app"
-            BlueprintName = "gaokao"
-            ReferencedContainer = "container:gaokao.xcodeproj">
+            BuildableName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.app"
+            BlueprintName = "&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;"
+            ReferencedContainer = "container:&#x5927;&#x5b66;&#x5f55;&#x53d6;&#x5206;&#x6570;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

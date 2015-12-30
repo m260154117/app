@@ -11,13 +11,6 @@
 @implementation customCell
 
 
--(id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier{
-    
-    if (self = [super initWithStyle:style reuseIdentifier:reuseIdentifier]) {
-        [self configureUI];
-    }
-    return self;
-}
 
 -(void)configureUI{
     

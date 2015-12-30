@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>录取分数</string>
+		<key>normalImage</key>
+		<string>bar-liaotian01.png</string>
+		<key>selectedImage</key>
+		<string>bar-liaotian02.png</string>
+		<key>className</key>
+		<string>ViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>列表</string>
+		<key>normalImage</key>
+		<string>bar-dongtai01.png</string>
+		<key>selectedImage</key>
+		<string>bar-dongtai02.png</string>
+		<key>className</key>
+		<string>ListViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>normalImage</key>
+		<string>bar-wode01.png</string>
+		<key>selectedImage</key>
+		<string>bar-wode02.png</string>
+		<key>className</key>
+		<string>SettingViewController</string>
+	</dict>
+</array>
+</plist>
