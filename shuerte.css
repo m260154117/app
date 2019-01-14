@@ -1,0 +1,63 @@
+
+body {
+    background: -webkit-linear-gradient(top,#87B4E6,#A3D5E2);
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+
+.home-div{
+    margin:0 auto;
+    width: 310px;
+    display: flex;
+}
+
+.logo_image{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.linkPeople{
+    font-size: 15px;
+    color:white;
+    margin-left:30px;
+    text-align: left;
+}
+
+.title-1{
+    text-indent:2em;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.img1{margin-top: 25px}
+.img2{margin-top: 25px}
+.img3{margin-top: 25px;margin-bottom: 30px}
+
+.img_main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.title-bottom{
+    text-indent:2em;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.p-header{
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.div-1{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: auto;
+}
